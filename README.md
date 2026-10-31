@@ -1,16 +1,30 @@
-## Hi there 👋
+<h1 align="left">Ana Luiza Birck</h1>
 
-<!--
-**analuizabirck/analuizabirck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left">
+  Curious about how things work, always learning something new.
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### A little about me
+
+I enjoy exploring programming, understanding how things
+work and turning ideas into projects.
+
+This is where I keep track of what I'm learning and
+what I build along the way.
+
+### Technologies I'm studying
+
+<img src="https://skillicons.dev/icons?i=python,sqlite,html,css,javascript,react&theme=dark" />
+
+**Also studying:** Object-Oriented Programming (Python).
+
+### Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" />
+
+### Learning journey
+
+A record of what I'm studying, experimenting with
+and improving over time.
